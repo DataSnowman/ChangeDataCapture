@@ -20,7 +20,7 @@ This [GitHub Repository](https://github.com/DataSnowman/ChangeDataCapture) along
 
 | Deployment | Use Case Name | Use Case Type | Dataset | Description | Code | Instruction Steps |
 | :------------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| [Azure Data Factory, Azure Databricks, and Azure SQL Database](https://github.com/DataSnowman/ChangeDataCapture#deploy-an-azure-databricks-workspace) | Change Data Capture | Azure Databricks, ADF, Azure SQL DB | CDC | Change Data Capture using ADF and Databricks Autoloader | [Code](https://github.com/DataSnowman/ChangeDataCapture/tree/main/usecases/cdc/code) | [Steps](https://github.com/DataSnowman/ChangeDataCapture/blob/main/usecases/cdc/steps/usecasesteps.md) |
+| [Azure Data Factory, Azure Databricks, and Azure SQL Database](https://github.com/DataSnowman/ChangeDataCapture#deploy-azure-datafactory-azure-databricks-and-azure-sql-database) | Change Data Capture | Azure Databricks, ADF, Azure SQL DB | AdventureworksLT | Change Data Capture using ADF and Databricks Autoloader | [Code](https://github.com/DataSnowman/ChangeDataCapture/tree/main/usecases/cdc/code) | [Steps](https://github.com/DataSnowman/ChangeDataCapture/blob/main/usecases/cdc/steps/usecasesteps.md) |
 
 ## Prerequisites
 
